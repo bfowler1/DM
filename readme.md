@@ -1,4 +1,4 @@
-Data Mining, Machine Learning and Visualization Analysis
+Data Mining, Machine Learning and Visualization Analyses
 
 The four analyses are from datasets of movie reviewers, credit card customers and career postings. The four zip files contain a Jupyter notebook file(s), HTML file(s) and a data folder containing the files needed to run the Jupyter notebok.
 

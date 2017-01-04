@@ -1,6 +1,6 @@
 Data Mining, Machine Learning and Visualization Analysis
 
-The four analyses are from Datasets of Movie Reviewers, Credit Card Customers and Career Postings. The four zip files contain a Jupyter Notebook file(s), HTML file(s) and a data folder containing the files needed to run the Jupyter Notebok.
+The four analyses are from datasets of movie reviewers, credit card customers and career postings. The four zip files contain a Jupyter Notebook file(s), HTML file(s) and a data folder containing the files needed to run the Jupyter Notebok.
 
 Review of the HTML files are suggested, as the Jupyter notebook files have long load times. Most will run in 1-3 hours, but the cluster analysis file will take approximately 24 hours to run.
 

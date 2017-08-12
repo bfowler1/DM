@@ -3,36 +3,36 @@
 "children": [
   {
     "name": "1",
-    "city": "El Paso",
-    "amount": "696534",
+    // "city": "El Paso",
+    // "amount": "696534",
     "children": [],
     "value": 3483
   },
   {
     "name": "2",
-    "city": "Houston",
-    "amount": "476186",
+    // "city": "Houston",
+    // "amount": "476186",
     "children": [],
     "value": 2381
   },
   {
     "name": "3",
-    "city": "Dallas",
-    "amount": "389996",
+    // "city": "Dallas",
+    // "amount": "389996",
     "children": [],
     "value": 1950
   },
   {
     "name": "4",
-    "city": "San Antonio",
-    "amount": "56544",
+    // "city": "San Antonio",
+    // "amount": "56544",
     "children": [],
     "value": 283
   },
   {
     "name": "5",
-    "city": "Waco",
-    "amount": "28144",
+    // "city": "Waco",
+    // "amount": "28144",
     "children": [],
     "value": 141
   },

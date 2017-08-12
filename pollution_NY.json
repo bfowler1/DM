@@ -1,0 +1,24 @@
+{
+	"name": "1"
+	"children": 
+	[
+		{
+			"name":"1-1",
+			"children":
+			[
+				{
+					"name": "1-1-1",
+					"children":[],
+					"value": 6125
+				},
+				{
+					"name": "1-1-2",
+					"children":[],
+					"value": 2192
+				},
+			]
+		}
+	"value": 8359
+	]
+	"value": 94734
+}
